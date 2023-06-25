@@ -27,17 +27,25 @@ The second dashboard is an interactive visualization that provides custom analys
 
 
 # Results: 
-Dashboard - 1
-## Poverty vs Crimes:
+## Dashboard - 1
+### Poverty vs Crimes:
 There are higher non violent crimes than violent crimes and they both increase with an increase in the percentage of population under poverty.
  
-## Education vs. Crime:
+### Education vs. Crime:
 The number of non-violent crimes per 100k population increase regardless of the percentage of people educated in the state. However, the number of violent crimes per 100k population decreases as a higher proportion of the state’s population earns at least a bachelor’s degree.
  
-## Unemployment vs. Crime:
+### Unemployment vs. Crime:
 The number of violent and non-violent crimes per 100k population increase with an increase in the percent of the state’s unemployed population.
 
-## Non-violent crimes per violent crime vs. State:
+### Non-violent crimes per violent crime vs. State:
 The map chart depicts the rate of non-violent crimes per violent crime for each state. The ratio is highest for the state of Nevada which means, the state experiences a lot more non-violent crimes compared to violent crimes.
+
+## Dashboard - 2
+Crime is more concentrated in certain pockets of the state. For example, Chicago city accounts for the majority of the crimes committed in Illinois. 
+
+Washington DC is the area with the greatest number of violent crimes committed per head whereas California has the highest number of crimes committed.
+
+Majority of the crimes committed are non violent crimes with Larcenies being the most common among non violent crimes and burglaries being the most common among violent crimes.
+
 
  
