@@ -1,6 +1,8 @@
 
 # Crime Analysis in the United States :
-A number of violent and non-violent crimes are committed in the United States each year. Violent crime is divided into four categories under the FBI's Uniform Crime Reporting (UCR) Program: murder and nonnegligent manslaughter, forcible rape, robbery, and aggravated assault. Non-violent crimes generally include (a) property crimes, such as theft, larceny, embezzlement, receipt of stolen goods, and arson of personal property; (b) Contract crimes, fraud, tax crimes; (c) Various drug and alcohol-related crimes; (d) Various other crimes including traffic offences, prostitution, gambling, bribery, etc. A detailed analysis of these crimes allows us to comprehend the crime pattern in an area and derive insights for future understanding of criminal activity patterns. 
+A number of violent and non-violent crimes are committed in the United States each year.In this project, we divided violent crimes into divided  four categories in accordance with FBI's Uniform Crime Reporting (UCR) Program: murder and nonnegligent manslaughter, forcible rape, robbery, and aggravated assault. Non-violent crimes generally include (a) property crimes, such as theft, larceny, embezzlement, receipt of stolen goods, and arson of personal property; (b) Contract crimes, fraud, tax crimes; (c) Various drug and alcohol-related crimes; (d) Various other crimes including traffic offences, prostitution, gambling, bribery, etc. A detailed analysis of these crimes allows us to comprehend the crime pattern in an area and derive insights for future understanding of criminal activity patterns. 
+
+This study aims to highlight some of the safest and most unsafe areas in America. Studying demographic factors, GDP, annual income, educational qualification and impact of family history can help us gather a fair understanding of crimes
 
 # Dataset:
 For this project we have used a Socio-economic dataset from the '90 Census. It contains Law enforcement data from the 1990 Law Enforcement Management Admin Stats survey And Crime data from the 1995 FBI UCR. The dataset consists of 2215 instances across 147 attributes which include 3 categorical and 144 numeric attributes. The data is divided into states and communities. 
@@ -20,8 +22,12 @@ Education is measured in 2 levels, the population without a high school degree a
 Unemployment is measured as the average percentage of unemployed population for a given state.
 Each circle in the 3 scatter plots represents a state in the United States
 
+The second dashboard is an interactive visualization that provides custom analyses of offense data within one or more states and in the entire  United States of America and . The interactivity allows users to filter data based on the state and to get a holistic view of the crime statistics in the entire country as well as  in the entire state. The state filter is the primary selection tool that allows users to choose to obtain data for one or more individual states. 
+
+
 
 # Results: 
+Dashboard - 1
 ## Poverty vs Crimes:
 There are higher non violent crimes than violent crimes and they both increase with an increase in the percentage of population under poverty.
  
